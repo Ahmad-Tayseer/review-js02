@@ -1,7 +1,7 @@
 # review-js02
 
 ## Table of Contents:
-y = 'added from git'
+x = 'added from github'
 
 | Topic  | Link  |
 |---|---|
